@@ -1,0 +1,26 @@
+---- Servers and domain names check
+
+Getting IP for NS1.HOSTRY.COM: 185.186.246.19
+Getting IP for NS2.HOSTRY.COM: 206.54.189.187
+Getting IP for NS3.HOSTRY.COM: 195.123.233.100
+Getting IP for NS4.HOSTRY.COM: 45.32.157.198
+
+---- Checking SOA records for ITSASJCEM.EU.ORG
+
+SOA from NS1.HOSTRY.COM at 185.186.246.19: serial 2022091301 (10.761 ms)
+SOA from NS2.HOSTRY.COM at 206.54.189.187: serial 2022091301 (115.616 ms)
+SOA from NS3.HOSTRY.COM at 195.123.233.100: serial 2022091301 (75.744 ms)
+SOA from NS4.HOSTRY.COM at 45.32.157.198: serial 2022091301 (17.713 ms)
+
+---- Checking NS records for ITSASJCEM.EU.ORG
+
+NS from NS1.HOSTRY.COM at 185.186.246.19: ok (12.955 ms)
+NS from NS2.HOSTRY.COM at 206.54.189.187: ok (115.676 ms)
+NS from NS3.HOSTRY.COM at 195.123.233.100: ok (76.276 ms)
+NS from NS4.HOSTRY.COM at 45.32.157.198: ok (18.688 ms)
+
+
+No error, storing for validation...
+Saved as request 20220913224446-arf-11337
+
+Done
