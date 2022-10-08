@@ -179,7 +179,11 @@ span{
     border-radius: 5px;
 }
 
-
+.toba img{
+    margin-top: 15%;
+    height: 100%;
+    width: 100%;
+}
 
 .images{
     width: 35%;
@@ -321,7 +325,26 @@ footer .bottom{
     margin: 6px auto;
     transition: 0.4s;
   }
-  
+
+#bgtb img{
+    height: 100%;
+    width: 100%;
+}
+
+.btn{
+    background-color: #ff6600;
+}
+
+#btn_1 a{
+    background: #212121;
+    padding: 20px 18px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #fff;
+    display: inline-block;
+    margin: 30px 0;
+    border-radius: 100px;
+}
 
 /* responsive */
 
@@ -425,12 +448,43 @@ footer .bottom{
 }
 
 @media screen and (max-width:550px){ 
-html{
-    display: none;
-}
-    
+
+.hero2 .detel2{
+    margin-left: 5%;
+    margin-right: 5%;
 }
 
+/* .toba img{
+    height: 100%;
+    width: 100%;
+} */
+
+}
+
+
+
+
+@media screen and (max-width:376px){ 
+    footer{
+        margin-top: 110%;
+    }
+    }
+
+
+ /* @media screen and (min-width:550px){ 
+
+    footer{
+        margin-top: 110%;
+    }
+        
+    }  */
+    /* @media screen and (min-width:620px){ 
+
+        footer{
+            margin-top: 70%;
+        }
+            
+        }  */
 
 
 /*@media screen and (max-width:550px){ 
