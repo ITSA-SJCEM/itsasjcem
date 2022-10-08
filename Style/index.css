@@ -468,9 +468,9 @@ footer {
 
 
 
-@media screen and (max-width:376px){ 
+@media screen and (min-width:200px){ 
     footer{
-        margin-top: 110%;
+        margin-top: 150%;
     }
     }
 
