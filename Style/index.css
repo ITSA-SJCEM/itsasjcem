@@ -466,13 +466,19 @@ footer {
 }
 
 
-
-
-@media screen and (min-width:200px){ 
+@media screen and (max-width:551px){ 
     footer{
         margin-top: 150%;
     }
     }
+
+
+
+/* @media screen and (min-width:200px){ 
+    footer{
+        margin-top: 150%;
+    }
+    } */
 
 
  /* @media screen and (min-width:550px){ 
